@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "institute": "Vishwakarma Institute of Technology, Pune",
+    "branch": "CSE (AI & ML)",
+    "year": "SY B.Tech",
+    "division": "C",
+    "term": "Semester 3",
+    "academic_year": "2026-27",
+    "maintainer": "Jayom Patel",
+    "note": "Updated with real class data for Division C including all lab and tutorial batches."
+  },
+  "courses": [
+    {
+      "code": "ML2301",
+      "name": "Fundamentals of Data Structures",
+      "faculty": "Mrs. Prajakta Prakash Musale",
+      "credits": 4,
+      "units": [
+        {
+          "title": "Unit 1 - Linear Structures",
+          "topics": ["Arrays", "Linked Lists", "Stacks", "Queues"]
+        },
+        {
+          "title": "Unit 2 - Trees",
+          "topics": ["Binary Trees", "BST", "AVL Trees", "Heaps"]
+        },
+        {
+          "title": "Unit 3 - Graphs",
+          "topics": ["BFS", "DFS", "Dijkstra", "Minimum Spanning Tree"]
+        }
+      ]
+    },
+    {
+      "code": "ML2302",
+      "name": "Database Management Systems",
+      "faculty": "Mrs. Sonal Sachin Fatangare",
+      "credits": 4,
+      "units": [
+        {
+          "title": "Unit 1 - Relational Model",
+          "topics": ["ER Diagrams", "Relational Algebra", "SQL"]
+        },
+        {
+          "title": "Unit 2 - Normalization",
+          "topics": ["1NF", "2NF", "3NF", "BCNF"]
+        },
+        {
+          "title": "Unit 3 - Transaction Management",
+          "topics": ["ACID Properties", "Concurrency Control", "Recovery"]
+        }
+      ]
+    },
+    {
+      "code": "MM0304",
+      "name": "Discrete Mathematics",
+      "faculty": "Mrs. Kanchan Vishalkumar Wankhade",
+      "credits": 3,
+      "units": [
+        {
+          "title": "Unit 1 - Logic and Proofs",
+          "topics": ["Propositional Logic", "Predicates", "Induction"]
+        },
+        {
+          "title": "Unit 2 - Graph Theory",
+          "topics": ["Euler Paths", "Trees", "Graph Coloring"]
+        }
+      ]
+    },
+    {
+      "code": "ML2303",
+      "name": "Object Oriented Programming",
+      "faculty": "Dr. Madhuri Manohar Barhate",
+      "credits": 4,
+      "units": []
+    },
+    {
+      "code": "ML2304",
+      "name": "Digital Electronics and Microprocessor",
+      "faculty": "Ms. Asmita Balasaheb Kalamkar / Amruta Prabhakar Bankar",
+      "credits": 4,
+      "units": []
+    },
+    {
+      "code": "HS2001",
+      "name": "Reasoning and Aptitude Development - 3",
+      "faculty": "Ms. Asmita Balasaheb Kalamkar",
+      "credits": 2,
+      "units": []
+    },
+    {
+      "code": "ML2305",
+      "name": "Design Thinking - 1",
+      "faculty": "Dr. Madhuri Manohar Barhate / Ms. Geeta Balkrushna Zaware",
+      "credits": 2,
+      "units": []
+    },
+    {
+      "code": "HS2002",
+      "name": "From Campus to Corporate - 1",
+      "faculty": "Dr. Varsha Rahul Dange / Dr. Madhuri Manohar Barhate",
+      "credits": 2,
+      "units": []
+    }
+  ],
+  "timetable": {
+    "monday": [
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "course": "MM0304",
+        "room": "4006",
+        "type": "theory"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "course": "ML2302",
+        "room": "4006",
+        "type": "theory"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2303",
+        "room": "4309",
+        "type": "lab_B1"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2301",
+        "room": "4003",
+        "type": "lab_B2"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2304",
+        "room": "4308",
+        "type": "lab_B3"
+      },
+      {
+        "start": "14:00",
+        "end": "15:00",
+        "course": "MM0304",
+        "room": "4304B",
+        "type": "tutorial_B2"
+      },
+      {
+        "start": "15:00",
+        "end": "16:00",
+        "course": "HS2001",
+        "room": "TBD",
+        "type": "theory"
+      }
+    ],
+    "tuesday": [
+      {
+        "start": "09:00",
+        "end": "10:00",
+        "course": "MM0304",
+        "room": "4304B",
+        "type": "tutorial_B3"
+      },
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "course": "ML2301",
+        "room": "4006",
+        "type": "theory"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "course": "ML2304",
+        "room": "4006",
+        "type": "theory"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2302",
+        "room": "4308",
+        "type": "lab_B1"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2303",
+        "room": "4309",
+        "type": "lab_B2"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2301",
+        "room": "4003",
+        "type": "lab_B3"
+      },
+      {
+        "start": "14:00",
+        "end": "15:00",
+        "course": "ML2305",
+        "room": "TBD",
+        "type": "tutorial_B1"
+      },
+      {
+        "start": "15:00",
+        "end": "16:00",
+        "course": "ML2305",
+        "room": "TBD",
+        "type": "tutorial_B3"
+      }
+    ],
+    "wednesday": [
+      {
+        "start": "09:00",
+        "end": "10:00",
+        "course": "ML2301",
+        "room": "4005",
+        "type": "theory"
+      },
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "course": "MM0304",
+        "room": "4005",
+        "type": "theory"
+      },
+      {
+        "start": "11:00",
+        "end": "13:00",
+        "course": "ML2304",
+        "room": "4003",
+        "type": "lab_B1"
+      },
+      {
+        "start": "11:00",
+        "end": "13:00",
+        "course": "ML2302",
+        "room": "4308",
+        "type": "lab_B2"
+      },
+      {
+        "start": "11:00",
+        "end": "13:00",
+        "course": "ML2303",
+        "room": "4309",
+        "type": "lab_B3"
+      },
+      {
+        "start": "13:00",
+        "end": "14:00",
+        "course": "ML2305",
+        "room": "TBD",
+        "type": "tutorial_B2"
+      }
+    ],
+    "thursday": [
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "course": "MM0304",
+        "room": "4304B",
+        "type": "tutorial_B1"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "course": "ML2303",
+        "room": "4005",
+        "type": "theory"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2301",
+        "room": "4003",
+        "type": "lab_B1"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2304",
+        "room": "4309",
+        "type": "lab_B2"
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "course": "ML2302",
+        "room": "4308",
+        "type": "lab_B3"
+      },
+      {
+        "start": "14:00",
+        "end": "15:00",
+        "course": "HS2002",
+        "room": "0_D26",
+        "type": "theory"
+      },
+      {
+        "start": "15:00",
+        "end": "16:00",
+        "course": "HS2002",
+        "room": "0_D27",
+        "type": "theory"
+      }
+    ],
+    "friday": [
+      {
+        "start": "08:00",
+        "end": "09:00",
+        "course": "ML2304",
+        "room": "4307",
+        "type": "theory"
+      },
+      {
+        "start": "09:00",
+        "end": "10:00",
+        "course": "ML2302",
+        "room": "4307",
+        "type": "theory"
+      },
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "course": "ML2301",
+        "room": "4307",
+        "type": "theory"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "course": "ML2303",
+        "room": "4006",
+        "type": "theory"
+      }
+    ],
+    "saturday": [],
+    "sunday": []
+  },
+  "deadlines": [
+    {
+      "title": "Unit Test 1",
+      "date": "2026-09-21",
+      "course": "ML2301",
+      "type": "exam"
+    },
+    {
+      "title": "DBMS Assignment 1 submission",
+      "date": "2026-09-16",
+      "course": "ML2302",
+      "type": "assignment"
+    }
+  ],
+  "events": [
+    {
+      "title": "Build with Claude - intro session",
+      "date": "2026-09-11",
+      "club": "Claude Builder Club (proposed)",
+      "venue": "TBD"
+    }
+  ]
+}
