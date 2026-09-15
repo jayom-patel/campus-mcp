@@ -85,6 +85,7 @@ Register it with Claude Desktop by adding this to `claude_desktop_config.json`:
       "command": "python",
       "args": ["/absolute/path/to/campus-mcp/mcp_server/server.py"]
     }
+    
   }
 }
 ```
